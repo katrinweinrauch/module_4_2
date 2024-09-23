@@ -5,4 +5,4 @@ def test_function():
 
 
 print(test_function())
-# print(inner_funktion())
+print(inner_funktion())
